@@ -1,0 +1,9 @@
+NAME: VUPPANDLA VAISHNAVI
+TASK :23-01-2020
+Create the Repository using git commands 
+Add the files to your existing repository and push the changes to Remote Server
+git init
+git add filename
+git commit -m "first repo"
+git remote add origin "url link"
+git push origin master 
